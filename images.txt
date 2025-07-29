@@ -1,1 +1,2 @@
-apache/shardingsphere-proxy:5.1.1
+elasticsearch:8.7.1
+kibana:8.7.1

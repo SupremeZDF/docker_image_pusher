@@ -1,2 +1,7 @@
-elasticsearch:8.7.1
-kibana:8.7.1
+kube-apiserver:v1.28.0
+kube-controller-manager:v1.28.0
+kube-scheduler:v1.28.0
+kube-proxy:v1.28.0
+pause:3.9
+etcd:3.5.7-0
+coredns:v1.9.3
